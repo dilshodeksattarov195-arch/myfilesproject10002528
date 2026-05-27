@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userdrocess",
+        "uuid": 6754816,
+        "checksum": "z88xi"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
